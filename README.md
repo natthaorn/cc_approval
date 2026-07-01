@@ -1,6 +1,7 @@
 # Credit Card Approval Prediction
 
-![Credit card being held in hand](credit_card.jpg)
+<img width="567" height="381" alt="credit_card" src="https://github.com/user-attachments/assets/c595482d-e276-4ce1-8dce-6397449b08f5" />
+
 
 A machine learning project that automates credit card approval decisions, the way real commercial banks do. Manually reviewing applications for red flags like high loan balances, low income, or too many credit inquiries is slow and error-prone — this project builds a classifier that does it instead.
 
